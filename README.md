@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @boomscript
-- 👀 Apart from software development I also spend time running around with airsoft gun replica, shooting people.
-- 🌱 I’m currently studying in WIT (Ireland)
-- 💞️ I’m looking to collaborate on anything fedora / red hat related
-- 📫 Contact me through info@adamcoding.com
+- 👀 Apart from software engineering I also spend some time running around with airsoft guns replicas, shooting people :)
+- 🌱 Currently student of WIT (Ireland)
+- 💞️ Interested in Dev Ops, Ansible and kubernetes
+- 📫 info@adamcoding.com
 
 <!---
 boomscript/boomscript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
